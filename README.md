@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/us/app/splendoor-care/id6776341916"><img src="https://img.shields.io/badge/App_Store-SplenDoor_Care-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="SplenDoor Care on the App Store" /></a>
+  <a href="https://apps.apple.com/app/id6776341916"><img src="https://img.shields.io/badge/App_Store-SplenDoor_Care-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="SplenDoor Care on the App Store" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.splendoorcare.app"><img src="https://img.shields.io/badge/Google_Play-SplenDoor_Care-414141?style=flat-square&logo=googleplay&logoColor=white" alt="SplenDoor Care on Google Play" /></a>
 </p>
 
@@ -94,7 +94,7 @@ A note on the repos below: most of my day-to-day work lives in private client an
 
 **🏥 [SplenDoor Care](https://splendoorcare.com/)** — 🚀 **live on both stores** — a full-stack in-home care management platform: care requests, caregiver scheduling, client records, invoicing, and online payments. I built the mobile app, the admin dashboard, and the API.
 
-[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/splendoor-care/id6776341916)
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/id6776341916)
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.splendoorcare.app)
 
 > [`splendoor-app`](https://github.com/jjmrbldz/splendoor-app) (Expo / React Native) · [`splendoor-admin`](https://github.com/jjmrbldz/splendoor-admin) (React + Vite + Mantine) · [`splendoor-backend`](https://github.com/jjmrbldz/splendoor-backend) (Fastify + Drizzle + MariaDB)
