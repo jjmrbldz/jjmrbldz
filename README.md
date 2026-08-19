@@ -20,7 +20,7 @@
 
 ### What I do
 
-5+ years in, I came to engineering the long way around — IT technician, then graphic designer, then UI/UX, then front end, and now full stack across the whole product. That path is the point: I care how a thing looks *and* how it holds up in production.
+In tech since **2017**, building software since **2020** — I came to engineering the long way around: IT technician, then graphic designer, then UI/UX, then front end, and now full stack across the whole product. That path is the point: I care how a thing looks *and* how it holds up in production.
 
 - **Mobile** — cross-platform apps with React Native + Expo, shipped to iOS and Android
 - **Web** — React, Next.js (App Router), and TypeScript with Tailwind, ShadCN, and Mantine
