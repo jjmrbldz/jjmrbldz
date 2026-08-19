@@ -6,7 +6,7 @@
 
 <p align="center">
   I build production-ready web and mobile applications — owning UI, backend APIs,<br/>
-  databases, and deployment end to end.
+  databases, and deployment end to end. Shipped to the App Store and Google Play.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 In tech since **2017**, building software since **2020** — I came to engineering the long way around: IT technician, then graphic designer, then UI/UX, then front end, and now full stack across the whole product. That path is the point: I care how a thing looks *and* how it holds up in production.
 
-- **Mobile** — cross-platform apps with React Native + Expo, shipped to iOS and Android
+- **Mobile** — cross-platform apps with React Native + Expo, taken through App Store and Google Play review to release
 - **Web** — React, Next.js (App Router), and TypeScript with Tailwind, ShadCN, and Mantine
 - **Backend** — REST APIs in NestJS and Fastify, over PostgreSQL (Prisma) and MySQL/MariaDB (Drizzle), with Redis caching and BullMQ job queues
 - **Design** — UI/UX and visual design, so specs arrive as working interfaces instead of open questions
@@ -87,7 +87,7 @@ A note on the repos below: most of my day-to-day work lives in private client an
 
 ### Featured work
 
-**🏥 [SplenDoor In-Home Care](https://splendoorcare.com/)** — a full-stack care management platform: care requests, caregiver scheduling, client records, invoicing, and online payments.
+**🏥 [SplenDoor In-Home Care](https://splendoorcare.com/)** — 🚀 **shipped** — a full-stack care management platform: care requests, caregiver scheduling, client records, invoicing, and online payments. Live on **Google Play**, and approved by **App Store** review. I built the mobile app, the admin dashboard, and the API.
 > [`splendoor-app`](https://github.com/jjmrbldz/splendoor-app) (Expo / React Native) · [`splendoor-admin`](https://github.com/jjmrbldz/splendoor-admin) (React + Vite + Mantine) · [`splendoor-backend`](https://github.com/jjmrbldz/splendoor-backend) (Fastify + Drizzle + MariaDB)
 
 **💬 [Tazza 365](https://tazza365.com/)** — a community forum for betting systems, with categorized boards, user reviews, and admin-posted scam alerts.
