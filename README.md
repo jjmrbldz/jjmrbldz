@@ -96,8 +96,8 @@ Meta Front-End Developer track — [Introduction to Front-End Development](https
 ### GitHub
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jjmrbldz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Jejo's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjmrbldz&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/jjmrbldz?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/jjmrbldz?style=for-the-badge&logo=github&label=Stars&color=181717" alt="GitHub stars" />
 </p>
 
 ---
