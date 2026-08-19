@@ -107,7 +107,14 @@ A note on the repos below: most of my day-to-day work lives in private client an
 
 ### Certifications
 
-Meta Front-End Developer track — [Introduction to Front-End Development](https://www.linkedin.com/in/jjmrbldz/details/certifications/) · Programming with JavaScript · Version Control · HTML and CSS in Depth
+**Meta Front-End Developer track** *(via Coursera)* — every credential below is publicly verifiable.
+
+| Certification | Issued | Credential |
+| --- | --- | --- |
+| Introduction to Front-End Development | Jan 2026 | [`RPUF8AX3WWAW`](https://www.coursera.org/account/accomplishments/verify/RPUF8AX3WWAW) |
+| Programming with JavaScript | Feb 2026 | [`2ZM6RZPH135O`](https://www.coursera.org/account/accomplishments/verify/2ZM6RZPH135O) |
+| Version Control | Mar 2026 | [`ZANMWQMZAOG5`](https://www.coursera.org/account/accomplishments/verify/ZANMWQMZAOG5) |
+| HTML and CSS in Depth | Aug 2026 | [`OXQMTG5TVCEP`](https://www.coursera.org/account/accomplishments/verify/OXQMTG5TVCEP) |
 
 ---
 
