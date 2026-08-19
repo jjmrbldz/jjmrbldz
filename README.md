@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build production-ready web and mobile applications — handling UI, backend APIs,<br/>
+  I build production-ready web and mobile applications — owning UI, backend APIs,<br/>
   databases, and deployment end to end.
 </p>
 
@@ -20,15 +20,15 @@
 
 ### What I do
 
-5+ years in, I came to engineering the long way around — IT technician, then graphic designer, then UI/UX, then front end, and now full stack. That path is the point: I care how a thing looks *and* how it holds up in production.
+5+ years in, I came to engineering the long way around — IT technician, then graphic designer, then UI/UX, then front end, and now full stack across the whole product. That path is the point: I care how a thing looks *and* how it holds up in production.
 
 - **Mobile** — cross-platform apps with React Native + Expo, shipped to iOS and Android
-- **Web** — React, Next.js (App Router), and TypeScript front ends with Tailwind, ShadCN, and Mantine
+- **Web** — React, Next.js (App Router), and TypeScript with Tailwind, ShadCN, and Mantine
 - **Backend** — typed REST APIs in Fastify + Drizzle ORM over MySQL/MariaDB, built in clean layers (routes → controllers → services → repositories)
 - **Design** — UI/UX and visual design, so specs arrive as working interfaces instead of open questions
-- **End to end** — I take features from schema design through deployment rather than handing off at the seams
+- **End to end** — I own features from schema design through deployment rather than handing off at the seams
 
-Currently building web and mobile products with the [Stackhaven](https://www.stackhaven.tech/) team.
+**Currently:** building the **DAO Labs** and **SplenDoor** mobile apps, alongside web and mobile work with the [Stackhaven](https://www.stackhaven.tech/) team.
 
 ---
 
